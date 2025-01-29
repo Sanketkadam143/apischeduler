@@ -1,0 +1,4 @@
+.env
+.build
+api_scheduler.log
+__pycache__
